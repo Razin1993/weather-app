@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="iconColor">#FFFFFF</color>
+    <color name="borderStrokeColor">#F0F3F4</color>
+    <color name="weatherTextColor">#FFFFFF</color>
+</resources>

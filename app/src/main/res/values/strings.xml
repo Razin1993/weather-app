@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current_city">Current City</string>
+    <string name="turn_on_location_permission">Turn on \"Location\" Permission</string>
+    <string name="turn_on_location_service">Turn on \"Location\" service</string>
+    <string name="location_permission_message">Location permission is required to get the weather information for the current location.</string>
+    <string name="location_permission_message_rationale">This app requires location permission to get the weather information for the current location.</string>
+    <string name="location_service_message">This app requires location service to get the weather information for the current location.</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="feels_like">Feels like</string>
+    <string name="humidity">Humidity</string>
+    <string name="air_pressure">Air Pressure</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="pull_down_to_refresh">Pull Down to refresh</string>
+    <string name="to_get_accurate">To get more accurate weather information, please enable location permission</string>
+    <string name="add_city">Add City</string>
+    <string name="top_cities">Top cities</string>
+    <string name="top_cities_world">Top cities - World</string>
+    <string name="manage_cities">Manage Cities</string>
+    <string name="select_theme">Select Theme</string>
+    <string name="system_default">System Default</string>
+    <string name="light">Light Theme</string>
+    <string name="dark">Dark Theme</string>
+</resources>
