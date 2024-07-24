@@ -23,6 +23,9 @@ Retrofit - Handles network request to fetch weather data from the API
 Lottie Animation - Add smooth and visually appealing animations to the app
 Coil - Image loading library
 
+**Download APK**
+Install weather_app.apk in your android device
+
 
 **Installation**
 To get a local copy up and running follow these steps.
